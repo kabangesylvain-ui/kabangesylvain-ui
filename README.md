@@ -3,7 +3,7 @@
 ## Data Scientist | Big Data & Cloud Engineer
 
 🎓 Étudiant en Master 2 Big Data & Data Science à Horizon School, Tunisie  
-🏅 Certifié **IBM, NVIDIA et Meta**  
+🏅 Certifié **IBM, NVIDIA, Meta, DeepLearning.AI, Google**  
 📍 Basé à Sousse, Tunisie  
 🔬 Passionné par l'IA, la Computer Vision et les LLMs
 
@@ -31,17 +31,21 @@
 
 ---
 
-### ☁️ Cloud ML Pipeline - AWS SageMaker & Bedrock
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kabangesylvain-ui&repo=cloud-ml-pipeline&theme=radical)](https://github.com/kabangesylvain-ui/cloud-ml-pipeline)
+### 🏢 Gestion des Événements - Stage GFI Tunisie
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kabangesylvain-ui&repo=gestion-evenements-reservation-salles&theme=radical)](https://github.com/kabangesylvain-ui/gestion-evenements-reservation-salles)
 
-Pipeline automatisé d'entraînement et de fine-tuning de LLMs sur AWS.
+Application de gestion d'événements et de réservation de salles avec Laravel, MySQL et Power BI.
+
+**Résultats** : 92 réservations gérées | 7 événements | 4 organisateurs
 
 ---
 
-### 🏭 Usine Intelligente - MLOps & Détection de pannes
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kabangesylvain-ui&repo=usine-intelligente&theme=radical)](https://github.com/kabangesylvain-ui/usine-intelligente)
+### 🧠 NLP - RNN vs LSTM : Classification de sentiments
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kabangesylvain-ui&repo=nlp-rnn-lstm-sentiment-analysis&theme=radical)](https://github.com/kabangesylvain-ui/nlp-rnn-lstm-sentiment-analysis)
 
-Détection d'anomalies en streaming avec **latence ≤ 30 secondes**.
+Comparaison des architectures RNN et LSTM sur 50 000 critiques IMDb.
+
+**Résultats** : LSTM **84,30% accuracy** | RNN 73,24% accuracy | **+11,06 points**
 
 ---
 
@@ -55,7 +59,7 @@ Détection d'anomalies en streaming avec **latence ≤ 30 secondes**.
 
 ## 📫 Me contacter
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/votre-profil)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kabange-mbuya-sylvain-a662983b2)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kabange.sylvain@horizon-university.tn)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kabangesylvain-ui)
 
