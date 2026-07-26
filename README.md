@@ -9,6 +9,15 @@
 
 ---
 
+## 🎓 Formation
+
+| **Diplôme** | **Établissement** | **Lien** |
+|-------------|-------------------|----------|
+| **Master in Big Data and Data Science** | Horizon School of Digital Technologies | [Voir le programme](https://horizon-university.tn/programs/big-data-data-science) |
+| **Licence en Business Intelligence** | Polytechnique de Sousse | [Voir la licence](https://www.polytecsousse.tn/licence-en-business-intelligence/) |
+
+---
+
 ## 🛠️ Compétences techniques
 
 | **Domaine** | **Compétences** |
