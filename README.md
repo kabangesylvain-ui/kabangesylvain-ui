@@ -2,7 +2,7 @@
 
 ## Data Scientist | Big Data & Cloud Engineer
 
-🎓 Étudiant en **Master 2 Big Data & Data Science** à [Horizon School of Digital Technologies](https://horizon-university.tn/programs/big-data-data-science)  
+🎓 Étudiant en **dernière année Big Data & Data Science** à [Horizon School of Digital Technologies](https://horizon-university.tn/programs/big-data-data-science)  
 🏅 Certifié **IBM, NVIDIA, Meta, DeepLearning.AI, Google**  
 📍 Basé à Sousse, Tunisie  
 🔬 Passionné par l'IA, la Computer Vision et les LLMs
