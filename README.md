@@ -1,11 +1,11 @@
 # 👋 Bonjour, je suis Kabange Mbuyu Sylvain
 
-## Data Scientist | Big Data & Cloud Engineer
+## 🚀 Data Scientist | AI Engineer | Big Data
 
-🎓 Étudiant en **dernière année Big Data & Data Science** à [Horizon School of Digital Technologies](https://horizon-university.tn/programs/big-data-data-science)  
-🏅 Certifié **IBM, NVIDIA, Meta, DeepLearning.AI, Google**  
+🎓 Étudiant en **Master 2 Big Data & Data Science Engineering** à [Horizon School of Digital Technologies](https://horizon-university.tn/programs/big-data-data-science)  
+🏅 Certifié **IBM, NVIDIA, Meta, Google, Microsoft & DataCamp**  
 📍 Basé à Sousse, Tunisie  
-🔬 Passionné par l'IA, la Computer Vision et les LLMs
+🔬 Passionné par l'IA Générative, le NLP et les architectures Cloud (MLOps)
 
 ---
 
@@ -22,30 +22,41 @@
 
 | **Domaine** | **Compétences** |
 |-------------|-----------------|
-| **Deep Learning** | PyTorch, TensorFlow, CNN (ResNet, EfficientNet, YOLO), NLP (BERT, GPT) |
-| **Big Data** | Apache Spark, Hadoop, HDFS, MapReduce, Kafka, Docker |
-| **Cloud** | AWS (SageMaker, Bedrock, Lambda, S3, EC2) |
-| **MLOps** | MLflow, FastAPI, CI/CD, Kubernetes |
-| **Langages** | Python (Expert), SQL, R, Java, Scala, CUDA |
-| **BI** | Power BI, Tableau, Snowflake, BigQuery, Streamlit |
+| **IA & Deep Learning** | PyTorch, TensorFlow, CNN, Vision Transformers, YOLOv8, NLP (RNN, LSTM, BERT), LLM (Mistral, OpenAI) |
+| **IA Générative & RAG** | LangChain, LangGraph, FAISS, Chroma, QLoRA, PEFT, Prompt Engineering |
+| **Big Data & Cloud** | Apache Spark, Hadoop, HDFS, Kafka, AWS (SageMaker, S3, Lambda), Docker, Kubernetes |
+| **MLOps & Backend** | MLflow, FastAPI, CI/CD, Docker, PostgreSQL, API REST |
+| **Langages** | Python, SQL, R, Java, Scala, C++, TypeScript |
+| **BI & Visualisation** | Power BI, Tableau, Snowflake, Streamlit, Plotly |
 
 ---
 
 ## 📌 Projets en vedette
 
-### 🌱 Smart Agriculture - Détection des maladies des plantes
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kabangesylvain-ui&repo=smart-agriculture-plant-disease&theme=radical)](https://github.com/kabangesylvain-ui/smart-agriculture-plant-disease)
+### 🤖 Assistant RAG — Cas LVMH
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kabangesylvain-ui&repo=rag-langchain-llm&theme=radical)](https://github.com/kabangesylvain-ui/rag-langchain-llm)
 
-**Résultats** : Classification **97,8% accuracy** | Segmentation **IoU 95,76%** | Détection **mAP50 44,9%**
+Pipeline RAG complet (ingestion, embeddings, base vectorielle) avec LangChain et LLM pour la recherche documentaire intelligente.
+
+**Résultats** : Évaluation de pertinence 100% | Interface Streamlit interactive
 
 ---
 
-### 🏢 Gestion des Événements - Stage GFI Tunisie
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kabangesylvain-ui&repo=gestion-evenements-reservation-salles&theme=radical)](https://github.com/kabangesylvain-ui/gestion-evenements-reservation-salles)
+### 💳 Détection de Churn Bancaire — Cas BNP Paribas
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kabangesylvain-ui&repo=churn-bnp-paribas&theme=radical)](https://github.com/kabangesylvain-ui/churn-bnp-paribas)
 
-Application de gestion d'événements et de réservation de salles avec Laravel, MySQL et Power BI.
+Modélisation prédictive (7 modèles comparés) et déploiement d'une API REST (FastAPI).
 
-**Résultats** : 92 réservations gérées | 7 événements | 4 organisateurs
+**Résultats** : F1-Score 0,64 | ROC-AUC 0,87 (+29% vs baseline) | ROI estimé 25-50 k€
+
+---
+
+### 🌱 Smart Agriculture - Détection des maladies des plantes
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kabangesylvain-ui&repo=smart-agriculture-plant-disease&theme=radical)](https://github.com/kabangesylvain-ui/smart-agriculture-plant-disease)
+
+Vision par ordinateur (YOLOv8, EfficientNet) pour l'aide à la décision agricole.
+
+**Résultats** : Classification **97,8% accuracy** | Segmentation **IoU 95,76%** | Détection **mAP50 44,9%**
 
 ---
 
@@ -66,11 +77,23 @@ Comparaison des architectures RNN et LSTM sur 50 000 critiques IMDb.
 
 ---
 
+## 💡 Qualités
+
+- **Rigueur & Curiosité** : Passionné par l'apprentissage continu et les défis techniques.
+- **Autonomie & Initiative** : Capable de mener des projets de bout en bout.
+- **Communication & Travail en équipe** : Habitué aux méthodes Agiles (Scrum).
+- **Résolution de problèmes** : Approche analytique et orientée résultats.
+- **Adaptabilité** : Apprentissage rapide de nouvelles technologies.
+
+---
+
 ## 📫 Me contacter
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kabange-mbuya-sylvain-a662983b2)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kabange.sylvain@horizon-university.tn)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kabangembuya99@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kabangesylvain-ui)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://kabangesylvain-ui.github.io/portfolio/)
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/sylvain-datascience)
 
 ---
 
