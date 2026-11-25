@@ -15,6 +15,7 @@
 |-------------|-------------------|----------|
 | **Master in Big Data and Data Science** | Horizon School of Digital Technologies | [Voir le programme](https://horizon-university.tn/programs/big-data-data-science) |
 | **Licence en Business Intelligence** | Polytechnique de Sousse | [Voir la licence](https://www.polytecsousse.tn/licence-en-business-intelligence/) |
+| **Baccalauréat — Humanités** | Complexe Scolaire Galaxie | — |
 
 ---
 
@@ -24,10 +25,13 @@
 |-------------|-----------------|
 | **IA & Deep Learning** | PyTorch, TensorFlow, CNN, Vision Transformers, YOLOv8, NLP (RNN, LSTM, BERT), LLM (Mistral, OpenAI) |
 | **IA Générative & RAG** | LangChain, LangGraph, FAISS, Chroma, QLoRA, PEFT, Prompt Engineering |
+| **Data Science & Analyse** | Séries temporelles, Fouille de données (Data Mining), AutoML, Scikit-learn, XGBoost, SHAP |
 | **Big Data & Cloud** | Apache Spark, Hadoop, HDFS, Kafka, AWS (SageMaker, S3, Lambda), Docker, Kubernetes |
 | **MLOps & Backend** | MLflow, FastAPI, CI/CD, Docker, PostgreSQL, API REST |
 | **Langages** | Python, SQL, R, Java, Scala, C++, TypeScript |
-| **BI & Visualisation** | Power BI, Tableau, Snowflake, Streamlit, Plotly |
+| **BI & Visualisation** | Power BI, Tableau, Snowflake, Streamlit, Plotly, Big Data Visualisation |
+| **Gestion & Business** | Gestion de projet (Agile/Scrum), Decision Support Systems, Business Management |
+| **Éthique & Conformité** | RGPD, Protection des données, Anonymisation |
 
 ---
 
